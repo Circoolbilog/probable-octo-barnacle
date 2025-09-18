@@ -24,7 +24,7 @@ We compiled **34 questions** covering:
 - WFH & Hybrid Work Adaptation
 - Salary, Benefits & Compensation
 
-👉 [View the full list of questions](./questions.md)
+👉 [View the full list of questions](./InterviewQuestions.md)
 
 ---
 
